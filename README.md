@@ -1,4 +1,4 @@
-## AIM 
+## AIM
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
 1. Start the program.
